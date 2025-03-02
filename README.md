@@ -6,13 +6,13 @@ w procesie biorą udział następujący aktorzy: Najemca, Kontroler, Zarządca.
 Wymienieni aktorzy uzyskują dostęp do systemu za pośrednictwem osobnych aplikacji: 
 
 # NajemcaApp 
- -- oferującej interfejs najemcy - osoby, do której przypisany jest lokal, 
+ - oferującej interfejs najemcy - osoby, do której przypisany jest lokal, 
  
 # KontrolerApp 
- -- oferującej interfejs kontrolera - osoby dokonującej pomiary stanów liczników, 
+ - oferującej interfejs kontrolera - osoby dokonującej pomiary stanów liczników, 
  
 # ZarządcaApp 
- -- oferującej interfejs zarządcy - osoby, która zarządza wieloma nieruchomościami.
+ - oferującej interfejs zarządcy - osoby, która zarządza wieloma nieruchomościami.
 
 # Najemca: 
 posiada konto w systemie, ma dostęp do informacji o wymaganych opłatach za prąd oraz historii rozliczeń, zobowiązany jest do wnoszenia zryczałtowych opłat za prąd (za pośrednictwem NajemcaApp).
